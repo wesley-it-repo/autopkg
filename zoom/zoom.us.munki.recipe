@@ -13,7 +13,7 @@
 		<key>MUNKI_REPO_SUBDIR</key>
 		<string>apps</string>
 		<key>NAME</key>
-		<string>zoom</string>
+		<string>Zoom</string>
 		<key>pkginfo</key>
 		<dict>
 			<key>blocking_applications</key>
@@ -39,7 +39,7 @@
 			<key>developer</key>
 			<string>Zoom Video Communications</string>
 			<key>display_name</key>
-			<string>zoom</string>
+			<string>Zoom</string>
 			<key>name</key>
 			<string>%NAME%</string>
 			<key>unattended_install</key>
