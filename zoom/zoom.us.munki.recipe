@@ -49,7 +49,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.Queasy-Artichoke.download.zoom.us</string>
+	<string>com.github.wesley-it-repo.download.zoom.us</string>
 	<key>Process</key>
 	<array>
 		<dict>
